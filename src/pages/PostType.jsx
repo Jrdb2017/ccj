@@ -47,7 +47,7 @@ function PostType(){
             <button class="px-4 py-1 text-sm text-brown-dark font-semibold rounded-full border border-brown  hover:text-white hover:bg-brown-dark  hover:border-transparent focus:outline-none focus:ring-2 focus:ring-brown-dark focus:ring-offset-2"
             >Back</button>
         </Link>
-        <Link to="/topics">
+        <Link to="/postformat">
             <button class="px-4 py-1 text-sm text-brown-dark font-semibold rounded-full border border-brown  hover:text-white hover:bg-brown-dark  hover:border-transparent focus:outline-none focus:ring-2 focus:ring-brown-dark focus:ring-offset-2"
             >Next</button>
         </Link>
